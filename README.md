@@ -14,10 +14,10 @@
 
 Esta tabela é o meu "diário de bordo" de evidências, documentando cada projeto concluído, as tecnologias usadas e onde encontrá-lo.
 
-| 🔹 Laboratório / Projeto | ⚙️ Tecnologias Utilizadas | 📂 Link / Pasta |
-| :--- | :--- | :--- |
-| **Automação de VMs Locais** | Vagrant, VirtualBox | `[lab-02-vagrant-automation](./lab-02-vagrant-automation)` |
-| `(Em breve...)` | `...` | `...` |
+| 🔹 Laboratório / Projeto | ⚙️ Tecnologias Utilizadas |
+| :--- | :--- | 
+| **Automação de VMs Locais** | Vagrant, VirtualBox | 
+| **WinterMoments_WebServer** | Vagrant, VirtualBox, Apache HTTPD |
 
 ---
 
