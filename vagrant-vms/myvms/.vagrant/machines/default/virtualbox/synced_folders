@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/scripts":{"guestpath":"/opt/scripts","hostpath":"/home/horuz/Documentos/vagrant-vms/myvms/scripts","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/horuz/Documentos/vagrant-vms/myvms","disabled":false,"__vagrantfile":true}}}
