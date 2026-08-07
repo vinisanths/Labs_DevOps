@@ -16,6 +16,7 @@ Esta tabela é o meu "diário de bordo" de evidências, documentando cada projet
 
 | 🔹 Laboratório / Projeto | ⚙️ Tecnologias Utilizadas |
 | :--- | :--- | 
+| **Labs de Vagrant** | Vagrant, VirtualBox, Apache HTTPD, WordPress, MySQL, Bash |
 | **Automação de VMs Locais** | Vagrant, VirtualBox | 
 | **WinterMoments_WebServer** | Vagrant, VirtualBox, Apache HTTPD |
 
